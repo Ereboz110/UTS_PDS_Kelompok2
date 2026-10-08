@@ -1,1 +1,1 @@
-# UTS_PDS_Kelompok2
+Tugas ujian tengah semester mata kuliah Pemodelan dan Simulasi, plotting permasalahan ke dalam grafik linear untuk mencari titik potong garis yang merupakan nilai optimal yang bisa diperoleh dari permasalahan
